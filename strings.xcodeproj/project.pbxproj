@@ -22,6 +22,7 @@
 		2077DB6822A1E9250059A596 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2077DB6B22A1E9250059A596 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2077DB6D22A1E9250059A596 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2077DB7322A204FC0059A596 /* pg.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = pg.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				2077DB6122A1E9240059A596 /* AppDelegate.swift */,
 				2077DB6322A1E9240059A596 /* ViewController.swift */,
+				2077DB7322A204FC0059A596 /* pg.playground */,
 				2077DB6522A1E9240059A596 /* Main.storyboard */,
 				2077DB6822A1E9250059A596 /* Assets.xcassets */,
 				2077DB6A22A1E9250059A596 /* LaunchScreen.storyboard */,
